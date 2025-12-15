@@ -1,0 +1,5 @@
+{
+    "editor.detectIndentation": false,
+    "editor.suggest.showInlineDetails": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true
+}
